@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    letter-spacing: 0.3px;
+    line-height: 1.5;
+    font-size: 1.3rem;
+}
+
+#main {
+    background-color: #eee;
+    margin: 15px 10px;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+#img-div {
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    padding: 10px 3px;
+    margin-top: 8px;
+}
+
+#headline {
+    margin: 40px 0;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+
+blockquote {
+    margin: 0 auto 30px auto;
+    text-align: left;
+    max-width: 550px;
+    font-style: italic;
+}
